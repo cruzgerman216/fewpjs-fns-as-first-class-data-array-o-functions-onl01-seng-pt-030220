@@ -1,5 +1,5 @@
 function wakeDog(){
-
+  return "Wake Xerox the Border Collie";
 }
 
 function leashDog(){
